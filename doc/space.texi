@@ -1,0 +1,67 @@
+\input texinfo @c -*-texinfo-*-
+@c $Id$
+@c %**start of header
+@setfilename space.info
+@settitle SPACE - The Sequence Pattern Capture Engine
+@setchapternewpage odd
+@c %**end of header
+
+@include version.texi
+
+@dircategory Application software
+
+@direntry
+* space: (space).  The Sequence Pattern Capture Engine
+@end direntry
+
+@ifinfo
+The Sequence Pattern Capture Engine
+This file documents the programs of space package.
+
+Copyright @copyright{} 2005 RIKEN. (Aki Hasegawa).
+@end ifinfo
+
+@titlepage
+@title SPACE
+@subtitle The Sequence Pattern Capture Engine
+@subtitle Edition @value{EDITION}, for SPACE Version @value{VERSION}
+@subtitle $Id$
+@subtitle @value{UPDATED}
+@author by Aki Hasegawa
+@author @email{aki@@gsc.riken.jp}
+
+@page
+@vskip 0pt plus 1filll
+Copyright @copyright{} 2005 RIKEN. (Aki Hasegawa).
+@end titlepage
+
+@node Top, Introduction, , (dir)
+@menu
+* Introduction::       Introduction.
+* Copying::            How you can copy and share @code{space}.
+* Overview::           Preliminary information.
+* Sample::             Sample output from @code{space}.
+* Invoking space::     How to run @code{space}.
+* Problems::           Reporting bugs.
+* Concept Index::      Index of concepts.
+@end menu
+
+@node Introduction, Copying, Top, Top
+@chapter Introduction
+
+@node Copying, Overview, Introduction, Top
+
+@node Overview, Sample, Copying, Top
+
+@node Sample, Invoking space, Overview, Top
+
+@node Invoking space, Problems, Sample, Top
+
+@node Problems, Concept Index, Invoking space, Top
+
+@node Concept Index, , Problems, Top
+
+@printindex cp
+@contents
+@bye
+@c space.texi ends here

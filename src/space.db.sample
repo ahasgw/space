@@ -1,0 +1,14 @@
+### space database list
+#
+#  type: CIRCULAR_DNA, LINEAR_DNA, RNA, AMINO_ACID, ...
+#
+# type	sqx_path
+#
+CIRCULAR_DNA	/home/aki/works/suffix/genosearch_script/sfxa/Mycoplasma_gallisepticum/NC_004829.sqx
+CIRCULAR_DNA	/home/aki/works/suffix/genosearch_script/sfxa/Mycoplasma_genitalium/NC_000908.sqx
+CIRCULAR_DNA	/home/aki/works/suffix/genosearch_script/sfxa/Mycoplasma_mobile_163K/NC_006908.sqx
+CIRCULAR_DNA	/home/aki/works/suffix/genosearch_script/sfxa/Mycoplasma_mycoides/NC_005364.sqx
+CIRCULAR_DNA	/home/aki/works/suffix/genosearch_script/sfxa/Mycoplasma_penetrans/NC_004432.sqx
+CIRCULAR_DNA	/home/aki/works/suffix/genosearch_script/sfxa/Mycoplasma_pneumoniae/NC_000912.sqx
+CIRCULAR_DNA	/home/aki/works/suffix/genosearch_script/sfxa/Mycoplasma_pulmonis/NC_002771.sqx
+AMINO_ACID  /home/aki/works/suffix/libsfx/src/MINI.sqx

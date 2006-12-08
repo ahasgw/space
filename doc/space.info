@@ -1,0 +1,62 @@
+This is space.info, produced by makeinfo version 6.1 from space.texi.
+
+INFO-DIR-SECTION Application software
+START-INFO-DIR-ENTRY
+* space: (space).  The Sequence Pattern Capture Engine
+END-INFO-DIR-ENTRY
+
+The Sequence Pattern Capture Engine This file documents the programs of
+space package.
+
+   Copyright (C) 2005 RIKEN. (Aki Hasegawa).
+
+
+File: space.info,  Node: Top,  Next: Introduction,  Up: (dir)
+
+* Menu:
+
+* Introduction::       Introduction.
+* Copying::            How you can copy and share 'space'.
+* Overview::           Preliminary information.
+* Sample::             Sample output from 'space'.
+* Invoking space::     How to run 'space'.
+* Problems::           Reporting bugs.
+* Concept Index::      Index of concepts.
+
+
+File: space.info,  Node: Introduction,  Next: Copying,  Prev: Top,  Up: Top
+
+1 Introduction
+**************
+
+
+File: space.info,  Node: Copying,  Next: Overview,  Prev: Introduction,  Up: Top
+
+
+File: space.info,  Node: Overview,  Next: Sample,  Prev: Copying,  Up: Top
+
+
+File: space.info,  Node: Sample,  Next: Invoking space,  Prev: Overview,  Up: Top
+
+
+File: space.info,  Node: Invoking space,  Next: Problems,  Prev: Sample,  Up: Top
+
+
+File: space.info,  Node: Problems,  Next: Concept Index,  Prev: Invoking space,  Up: Top
+
+
+File: space.info,  Node: Concept Index,  Prev: Problems,  Up: Top
+
+
+
+Tag Table:
+Node: Top339
+Node: Introduction733
+Node: Copying843
+Node: Overview927
+Node: Sample1005
+Node: Invoking space1090
+Node: Problems1175
+Node: Concept Index1267
+
+End Tag Table
